@@ -12,7 +12,7 @@
 3. [PassedUse a custom CSS Variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-custom-css-variable)
 4. [PassedAttach a Fallback value to a CSS Variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable)
 
-### Day 1: Junuary 6th, Sunday
+### Day 2: Junuary 6th, Sunday
 
 **Today's Progress**: Finished CSS basic challenge on FreeCodeCamp (Responsive Web Design Certification)
 
@@ -23,4 +23,14 @@
 2- [Cascading CSS variables](https://www.freecodecamp.org/cameldjoulako)
 3- [Change a variable for a specific area](https://www.freecodecamp.org/cameldjoulako)
 4-[Use a media query to change a variable](https://www.freecodecamp.org/cameldjoulako)
+
+### Day 2: Junuary 6th, Sunday
+
+**Today's Progress**: learn introduction to Applied web design (Responsive Web Design Certification)
+
+**Thoughts** this challenge aloow me to update my css3 skills
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
 
