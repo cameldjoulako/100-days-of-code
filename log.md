@@ -24,7 +24,7 @@
 3- [Change a variable for a specific area](https://www.freecodecamp.org/cameldjoulako)
 4-[Use a media query to change a variable](https://www.freecodecamp.org/cameldjoulako)
 
-### Day 2: Junuary 6th, Sunday
+### Day 3: Junuary 7th, Monday
 
 **Today's Progress**: learn introduction to Applied web design (Responsive Web Design Certification)
 
