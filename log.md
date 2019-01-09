@@ -44,7 +44,7 @@
 
 ### Day 5: Junuary 9th, Wednesday
 
-**Today's Progress**: always on to Applied web design (Responsive Web Design Certification)
+**Today's Progress**: I studied more about Applied visual design on freecodecamp
 
 **Thoughts** these challenge allow me to know a lot of techniques to make a website more attractive by using dedicated CSS properties.
 
