@@ -33,4 +33,24 @@
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
+### Day 4: Junuary 8th, Tuesday
+
+**Today's Progress**: learn introduction to Applied web design (Responsive Web Design Certification)
+
+**Thoughts** this challenge aloow me to update my css3 skills
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+### Day 5: Junuary 9th, Wednesday
+
+**Today's Progress**: always on to Applied web design (Responsive Web Design Certification)
+
+**Thoughts** these challenge allow me to know a lot of techniques to make a website more attractive by using dedicated CSS properties.
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+
+
 
