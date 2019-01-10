@@ -52,5 +52,15 @@
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
 
+### Day 6: Junuary 10th, Thursday
+
+**Today's Progress**: I studied more about Applied visual design on freecodecamp : color
+
+**Thoughts** these challenge allow me to know a lot of techniques to make a website more attractive by using dedicated CSS color property.
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+
 
 
