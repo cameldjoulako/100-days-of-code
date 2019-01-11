@@ -61,6 +61,13 @@
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
+### Day 7: Junuary 11th, Friday
+
+**Today's Progress**: am stimm doing css : Applied visual design on freecodecamp
+**Thoughts** these challenge allow me to know a lot of techniques to make a website more attractive by using dedicated CSS color property.
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
 
 
