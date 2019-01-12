@@ -69,5 +69,13 @@
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
+### Day 8: Junuary 12th, Saturday
+
+**Today's Progress**: Today I finished studying Applied Visual Design on freecodecamp
+**Thoughts** these challenge allow me to know how to design correctly a web site usung css n html
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
 
 
