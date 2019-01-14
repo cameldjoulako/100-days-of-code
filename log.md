@@ -77,5 +77,25 @@
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
+### Day 9: Junuary 13th, Sunday
+
+**Today's Progress**: Today I started the Introduction to the Applied Accessibility on #freecodecamp:
+1- have well-organized code that uses appropriate markup
+2- ensure text alternatives exist for non-text and visual content
+3- create an easily-navigated page that's keyboard-friendly
+**Thoughts** these challenge allow me to know how to use tag
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+### Day 10: Junuary 14th, Saturday
+
+**Today's Progress**: Today I did 2 challenges on #freecodecamp and I continued to follow my JAVA EE Course on @openclassrooms.
+
+**Thoughts** 
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
 
 
