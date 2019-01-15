@@ -97,5 +97,10 @@
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
+### Day 11: Junuary 15th, Saturday
 
+**Today's Progress**: still doing Applied Accessibility Challenge on #freecodecamp
+**Thoughts** 
 
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
