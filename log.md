@@ -104,3 +104,13 @@
 
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+### Day 12: Junuary 16th, Saturday
+
+**Today's Progress**: I worked today on Applied Accessibility Challenge on #freecodecamp
+- Improve Accessibility
+- Make Screen Reader Navigation Easier
+**Thoughts** 
+
+**Link(s) to work**
+-[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
