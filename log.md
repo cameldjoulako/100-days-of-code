@@ -116,7 +116,7 @@
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
 
 
-### Day 12: Junuary 16th, Saturday
+### Day 13: Junuary 17th, Saturday
 
 **Today's Progress**: I worked today on Applied Accessibility Challenge on #freecodecamp
 - Improve Accessibility
@@ -126,3 +126,11 @@ I followed the introductory web development
 
 **Link(s) to work**
 -[my profil freecodecamp](https://www.freecodecamp.org/cameldjoulako)
+
+### Day 14: Junuary 18th, Saturday
+
+**Today's Progress**:I finished with the Applied Accessibility challenges on @freeCodeCamp .
+I reviewed my course notes in #javaee (JSP & Beans).
+**Thoughts** now I understand visual design and accessibility
+
+**Link(s) to work**
