@@ -131,7 +131,7 @@ I followed the introductory web development
 
 **Today's Progress**:I finished with the Applied Accessibility challenges on @freeCodeCamp .
 I reviewed my course notes in #javaee (JSP & Beans).
-**Thoughts** now I understand visual design and accessibility
+**Thoughts** now I understand visual design and accessibility very 
 
 **Link(s) to work**
 
