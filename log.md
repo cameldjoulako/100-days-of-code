@@ -138,6 +138,5 @@ I reviewed my course notes in #javaee (JSP & Beans).
 ### Day 15: Junuary 19th, Saturday
 
 **Today's Progress**:I worked today on the Responsive Web Design Challenge on #freecodecamp
-**Thoughts** now I understand visual design and accessibility
-
+**Thoughts** Responsive design is very important 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
