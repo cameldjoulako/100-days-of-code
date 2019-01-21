@@ -140,3 +140,22 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Today's Progress**:I worked today on the Responsive Web Design Challenge on #freecodecamp
 **Thoughts** Responsive design is very important 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+Today, I reviewed CSS Flexbox on #freecodecamp
+
+### Day 16: Junuary 20th, Sunday
+
+**Today's Progress*I started css flexbox on #freecodecamp
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+Today, I reviewed CSS Flexbox on #freecodecamp
+
+
+### Day 16: Junuary 21th, Monday
+
+**Today's Progress* Today, I reviewed CSS Flexbox on #freecodecamp
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+Today, I reviewed CSS Flexbox on #freecodecamp
