@@ -152,10 +152,18 @@ Today, I reviewed CSS Flexbox on #freecodecamp
 Today, I reviewed CSS Flexbox on #freecodecamp
 
 
-### Day 16: Junuary 21th, Monday
+### Day 17: Junuary 21th, Monday
 
 **Today's Progress* Today, I reviewed CSS Flexbox on #freecodecamp
 **Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+Today, I reviewed CSS Flexbox on #freecodecamp
+
+### Day 18: Junuary 22th, Tuesday
+
+**Today's Progress* I finished with the Flexbox challenges on @freeCodeCamp.
+**Thoughts** now desgn a responsive markup is very cool for me
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
 Today, I reviewed CSS Flexbox on #freecodecamp
