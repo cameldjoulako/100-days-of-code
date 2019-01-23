@@ -167,3 +167,12 @@ Today, I reviewed CSS Flexbox on #freecodecamp
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
 Today, I reviewed CSS Flexbox on #freecodecamp
+
+### Day 19: Junuary 23th, Tuesday
+
+**Today's Progress* I started css grid challenges on @freeCodeCamp.
+**Thoughts** I like it because #CSSGrid help me easily build complex web designs.
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+Today, I reviewed CSS Flexbox on #freecodecamp
+
