@@ -160,13 +160,13 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
 
-### Day 19: Junuary 23th, Tuesday
+### Day 19: Junuary 23th, Wednesday
 
 **Today's Progress* I started css grid challenges on @freeCodeCamp.
 **Thoughts** I like it because #CSSGrid help me easily build complex web designs.
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-### Day 20: Junuary 24th, Tuesday
+### Day 20: Junuary 24th, Thursday
 
 **Today's Progress* I started css grid challenges on @freeCodeCamp.
 **Thoughts** I like it because #CSSGrid help me easily build complex web designs.
