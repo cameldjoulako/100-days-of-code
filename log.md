@@ -141,16 +141,11 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Thoughts** Responsive design is very important 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-Today, I reviewed CSS Flexbox on #freecodecamp
-
 ### Day 16: Junuary 20th, Sunday
 
 **Today's Progress*I started css flexbox on #freecodecamp
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
-
-Today, I reviewed CSS Flexbox on #freecodecamp
-
 
 ### Day 17: Junuary 21th, Monday
 
@@ -158,15 +153,12 @@ Today, I reviewed CSS Flexbox on #freecodecamp
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-Today, I reviewed CSS Flexbox on #freecodecamp
-
 ### Day 18: Junuary 22th, Tuesday
 
 **Today's Progress* I finished with the Flexbox challenges on @freeCodeCamp.
 **Thoughts** now desgn a responsive markup is very cool for me
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-Today, I reviewed CSS Flexbox on #freecodecamp
 
 ### Day 19: Junuary 23th, Tuesday
 
@@ -174,5 +166,9 @@ Today, I reviewed CSS Flexbox on #freecodecamp
 **Thoughts** I like it because #CSSGrid help me easily build complex web designs.
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-Today, I reviewed CSS Flexbox on #freecodecamp
+### Day 20: Junuary 24th, Tuesday
+
+**Today's Progress* I started css grid challenges on @freeCodeCamp.
+**Thoughts** I like it because #CSSGrid help me easily build complex web designs.
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
