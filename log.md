@@ -172,3 +172,12 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Thoughts** I like it because #CSSGrid help me easily build complex web designs.
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
+### Day 21: Junuary 25th, Wednesday
+
+**Today's Progress* Still on CSS Grid challenges on @freeCodeCamp.
++ Divide the Grid Into an Area Template
++ PassedPlace Items in Grid Areas Using the grid-area Property
++ PassedUse grid-area Without Creating an Areas Template
+**Thoughts** I like it because #CSSGrid help me easily build complex web designs.
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
