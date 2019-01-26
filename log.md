@@ -181,3 +181,10 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Thoughts** I like it because #CSSGrid help me easily build complex web designs.
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
+### Day 22: Junuary 26th, Wednesday
+
+**Today's Progress* I finished with the CSS Grid challenges on @freeCodeCamp.
+**Thoughts** I like it because #CSSGrid help me easily build complex web designs.
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
