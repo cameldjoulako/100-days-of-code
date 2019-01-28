@@ -192,3 +192,9 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Today's Progress* Today I did some revision in Javascript on @freeCodeCamp.
 **Thoughts** I think that JavaScript is very good to build a great web application
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+### Day 24: Junuary 28th, Sunday
+
+**Today's Progress* Today I started ECMAScript 6 challenges on @freecodecamp.
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
