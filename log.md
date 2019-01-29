@@ -193,8 +193,13 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Thoughts** I think that JavaScript is very good to build a great web application
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
-### Day 24: Junuary 28th, Sunday
+### Day 24: Junuary 28th, Monday
 
 **Today's Progress* Today I started ECMAScript 6 challenges on @freecodecamp.
+**Thoughts** 
+
+### Day 25: Junuary 289h, Tuesday
+
+**Today's Progress* still study ECMAScript 6 challenges on @freecodecamp.
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
