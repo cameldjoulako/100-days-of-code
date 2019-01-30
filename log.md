@@ -203,3 +203,13 @@ I reviewed my course notes in #javaee (JSP & Beans).
 **Today's Progress* still study ECMAScript 6 challenges on @freecodecamp.
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
+### Day 26: Junuary 30th, wwwwedesday
+
+**Today's Progress* Still doing ECMAScript 6 challenges on @freecodecamp.
+ +Prevent object Mutation
+ +Arrow functions
+Today, I followed Javascript course on @pluralsight
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
