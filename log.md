@@ -213,3 +213,11 @@ I reviewed my course notes in #javaee (JSP & Beans).
 Today, I followed Javascript course on @pluralsight
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
+### Day 27: Junuary 31th, Thursday
+
+**Today's Progress* Still doing ECMAScript 6 challenges on @freecodecamp.
+Today, I followed Javascript course on @pluralsight
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
