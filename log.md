@@ -221,3 +221,11 @@ Today, I followed Javascript course on @pluralsight
 Today, I followed Javascript course on @pluralsight
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+### Day 28: Febuary 1, Friday
+
+**Today's Progress* Still doing ECMAScript 6 challenges on @freecodecamp.
+ +Spread Operator
+ +Rest Oprerator
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
