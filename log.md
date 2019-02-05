@@ -238,3 +238,13 @@ Today, I followed Javascript course on @pluralsight
  +Reassign Array Elements
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
+## Day 30: Febuary 3, Saturday
+
+**Today's Progress** Continued ECMAScript 6 challenges on @freecodecamp.
+	 + Destructuring Assignment 
+ 	+Reassign Array Elements
+Started my 3/5 Responsive Web Design Projects - Build a Survey Form
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
