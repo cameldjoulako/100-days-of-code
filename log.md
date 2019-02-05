@@ -229,3 +229,12 @@ Today, I followed Javascript course on @pluralsight
  +Rest Oprerator
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
+### Day 29: Febuary 2, Saturday
+
+**Today's Progress* Still doing ECMAScript 6 challenges on @freecodecamp.
+ + Destructuring Assignment 
+ +Reassign Array Elements
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
