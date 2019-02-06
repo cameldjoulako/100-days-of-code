@@ -240,11 +240,32 @@ Today, I followed Javascript course on @pluralsight
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
 
-## Day 30: Febuary 3, Saturday
+## Day 30: Febuary 3, Sunday
 
 **Today's Progress** Continued ECMAScript 6 challenges on @freecodecamp.
 	 + Destructuring Assignment 
  	+Reassign Array Elements
 Started my 3/5 Responsive Web Design Projects - Build a Survey Form
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+## Day 31: Febuary 4, Monday
+
+**Today's Progress** Yesterday was my 31st day for the 100 Days of code challenge. I finished with ES6 on freecodecamp and from this day I work on my last 3 projects concerning the responsive web desing.
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+## Day 32: Febuary 5, Tuesday
+
+**Today's Progress** I Started Regular expression challenges on @freeCodeCamp.
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+## Day 33: Febuary 6, wednesday
+
+**Today's Progress** Still doing Regular Expressions challenges on @freecodecamp.
++Match a Literal String with Different Possibilities
++PassedIgnore Case While Matching
++PassedExtract Matches
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
