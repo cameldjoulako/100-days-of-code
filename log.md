@@ -225,8 +225,7 @@ Today, I followed Javascript course on @pluralsight
 ### Day 28: Febuary 1, Friday
 
 **Today's Progress* Still doing ECMAScript 6 challenges on @freecodecamp.
- +Spread Operator
- +Rest Oprerator
+ +Spread an Rest Operator
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
