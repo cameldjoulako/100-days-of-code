@@ -267,4 +267,13 @@ Started my 3/5 Responsive Web Design Projects - Build a Survey Form
 +PassedIgnore Case While Matching
 +PassedExtract Matches
 **Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako## 
+
+
+Day 34: Febuary 7, Thursday
+
+**Today's Progress** Still doing Regular Expressions challenges on @freecodecamp.
++Find More Than the First Match
++PassedMatch Anything with Wildcard Period
+**Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
