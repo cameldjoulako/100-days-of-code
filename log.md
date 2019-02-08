@@ -267,13 +267,22 @@ Started my 3/5 Responsive Web Design Projects - Build a Survey Form
 +PassedIgnore Case While Matching
 +PassedExtract Matches
 **Thoughts** 
-**Link(s) to work** https://www.freecodecamp.org/cameldjoulako## 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
 
 
-Day 34: Febuary 7, Thursday
+## Day 34: Febuary 7, Thursday
 
 **Today's Progress** Still doing Regular Expressions challenges on @freecodecamp.
 +Find More Than the First Match
 +PassedMatch Anything with Wildcard Period
+**Thoughts** 
+**Link(s) to work** https://www.freecodecamp.org/cameldjoulako
+
+
+## Day 35: Febuary 8, Friday
+
+**Today's Progress** Regular Expressions challenges on @freecodecamp.
+Match Single Character with Multiple Possibilities, Letters of the Alphabet, Numbers and Letters of the Alphabet
+and Single Characters Not Specified
 **Thoughts** 
 **Link(s) to work** https://www.freecodecamp.org/cameldjoulako
